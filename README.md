@@ -2,7 +2,14 @@
 
 This repository contains my **TIPE** (*Travaux d'Initiative Personnelle Encadrés*), a research project developed during my CPGE (preparatory classes). The project focuses on real-time object tracking using a mobile camera mounted on a translation axis (slider).
 
-![Texte descriptif](/docs/vidéo_résultat.gif)
+![GIF of experiment](/docs/vidéo_résultat.gif)
+<video src="docs/video_resultat.mp4" autoplay loop muted playsinline width="100%"></video>
+
+![Texte descriptif de la vidéo](docs/video_resultat.mp4)
+
+<video src="https://github.com/The-fleche/TIPE-Object-Tracking/blob/main/docs/video_resultat.mp4" controls width="600">
+  Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
 
 ## 🚀 Project Overview
 
