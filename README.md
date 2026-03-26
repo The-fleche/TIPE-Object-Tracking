@@ -2,6 +2,8 @@
 
 This repository contains my **TIPE** (*Travaux d'Initiative Personnelle Encadrés*), a research project developed during my CPGE (preparatory classes). The project focuses on real-time object tracking using a mobile camera mounted on a translation axis (slider).
 
+![Schéma explicatif du fonctionnement global de la VM](docs/vidéo_résultat.avi)
+
 ## 🚀 Project Overview
 
 The goal was to answer the following problem: **How to track a complex moving object in an uncontrolled environment using a mobile camera controlled on a translation axis?**
