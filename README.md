@@ -2,8 +2,7 @@
 
 This repository contains my **TIPE** (*Travaux d'Initiative Personnelle Encadrés*), a research project developed during my CPGE (preparatory classes). The project focuses on real-time object tracking using a mobile camera mounted on a translation axis (slider).
 
-<video src="docs/vidéo_résultat.mp4" controls="controls" style="max-width: 100%;">
-</video>
+![Texte descriptif](/docs/vidéo_résultat.gif)
 
 ## 🚀 Project Overview
 
